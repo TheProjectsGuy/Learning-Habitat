@@ -26,7 +26,7 @@ The following tutorials are covered
     :header: "S No.", "Tutorial", "Description"
     :widths: 20, 70, 150
 
-    "1", `Basic-Navigation.ipynb <./Tutorials/Basic-Navigation.ipynb>`_, Basic Navigation in Habitat using a headless (remote) server. Covers setup, basic navigation.
+    "1", `Basic-Navigation.ipynb <./Tutorials/Basic-Navigation.ipynb>`_, Basic Navigation in Habitat using a headless (remote) server. Includes performing basic actions in an environment.
 
 .. image:: https://img.shields.io/badge/Developer-TheProjectsGuy-blue
     :target: https://github.com/TheProjectsGuy
